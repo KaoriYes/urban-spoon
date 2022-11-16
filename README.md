@@ -65,10 +65,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
 
+  - enkel toetsenbord: logische volgorde,maar je kan niet (makkelijk) naar de footer en daarboven, selectie blauwe rand overal en duidelijk maar in grote lijsten erg langzaam.
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  skip content button voor de lange lijsten en makkelijker de footer bereikbaar maken.
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
