@@ -73,15 +73,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  Hierbij was de site nogsteeds semi okay, er was een aantal kleine objecten die een beejte moeilijk te bereiken waren, maar het ging eigenlijk al best goed.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  mogelijk die objecten groter maken, maar die zijn expres kleiner gemaakt
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  ik ben zelf al kleurenblind en heb daar geen last gehad met de site zelf. Daarnaast was de site zelfs goed met gekke bril goed te zien.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  eigenlijk niet heel veel verbeterpunten.
 </details>
 
 
