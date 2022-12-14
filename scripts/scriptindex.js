@@ -5,6 +5,8 @@ var editbar = document.querySelector(".editbar");
 var removebutton = document.querySelectorAll(".remove");
 var accountsection = document.querySelector(".accountsection");
 
+
+
 function animatie(){
   document.body.classList.add("wiggle");
   editbar.classList.add("dropdown");
@@ -18,9 +20,11 @@ function animatieuit(){
     button.classList.remove("opacity");
 }
 
-function href(){
+function accountsectionclick(){
   location.href = "features.html?selection=0";
+  console.log("testaf");
 }
 
 button.addEventListener("click", animatie);
-buttondone.addEventListener("click", animatieuit)
+buttondone.addEventListener("click", animatieuit);
+accountsection.addEventListener("click", accountsectionclick);
