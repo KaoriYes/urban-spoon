@@ -1034,7 +1034,7 @@ body>header:first-child {
 
 /* MAIN second settings */
 .second main section:nth-of-type(5) {
-  width: 43.125em;
+  width: 100%;
   padding: 0;
   margin: 0 0 10em 0;
 }
@@ -1468,7 +1468,7 @@ body.wiggle main section:first-of-type {
     display: none;
   }
 
-  .second main main {
+  .second main .mainmain {
     width: 21.5625em;
   }
 
