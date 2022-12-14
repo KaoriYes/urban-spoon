@@ -115,10 +115,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Eigenlijk ging alles wel goed, grid ging verassennd goed.
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  Wij hadden niet echt specifieke vragen, we wilde gewoon ons werk laten zien en kijken hoe we konden verbeteren.
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
@@ -130,10 +131,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik had wat tips gekregen over mijn Grid in .home main. Hierdoor was het beter gecentreerd.
 
 </details>
 
@@ -148,25 +146,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Ik had wat moeite met de wiggle animatie, om ze allemaal aan te krijgen. verder gingen alle animaties
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  Wij hadden niet echt specifieke vragen, we wilde gewoon ons werk laten zien en kijken hoe we konden verbeteren.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Ik had wat tips gekregen van Yara over github, daarnaast een tip gekregen over de js tag querySelecterAll.
 
 </details>
 
@@ -218,25 +207,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik had geen problemen, maar ik moet gewoon aan de slag. 
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Ik had veel lopen klooien met kleine onbelangrijke dingen, dat viel Robbert ook gelijk op. Ik moet hard aan de bak om de tweede pagina te maken.
 
 </details>
 
@@ -273,11 +255,5 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
-
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
-  1. bron 1
-  2. bron 2
-  3. ...
-
+Geen bronnen gebruikt.
 </details>
