@@ -733,7 +733,7 @@ body>header:first-child {
   text-decoration: none;
 }
 
-.second main main {
+.second main .mainmain {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -741,7 +741,7 @@ body>header:first-child {
 }
 
 /* ===MAIN second plan=== */
-.second main>section:nth-of-type(1) {
+.second .mainmain>section:nth-of-type(1) {
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -749,14 +749,14 @@ body>header:first-child {
   margin: 0 0 10em auto;
 }
 
-.second main section:nth-of-type(1) h1 {
+.second .mainmain section:nth-of-type(1) h1 {
   font-size: 3em;
   padding: .5em 0 0 0;
   margin: 0;
   margin-right: auto;
 }
 
-.second main section:nth-of-type(1) p {
+.second .mainmain section:nth-of-type(1) p {
   font-size: 1em;
   font-weight: 400;
   line-height: 25px;
@@ -764,7 +764,7 @@ body>header:first-child {
   margin-right: auto;
 }
 
-.second main section:nth-of-type(1) ul li>span {
+.second .mainmain section:nth-of-type(1) ul li>span {
   font-size: 1em;
   font-weight: 400;
   color: rgba(0, 0, 0, .56);
@@ -772,37 +772,37 @@ body>header:first-child {
   margin-right: auto;
 }
 
-.second main section:nth-of-type(1) p a {
+.second .mainmain section:nth-of-type(1) p a {
   color: #0071eb;
   cursor: pointer;
   text-decoration: none;
 }
 
-.second main section:nth-of-type(1) h2 {
+.second .mainmain section:nth-of-type(1) h2 {
   font-size: 28px;
   font-weight: 600;
   line-height: 32px;
 }
 
-.second main section:nth-of-type(1) h3 {
+.second .mainmain section:nth-of-type(1) h3 {
   font-size: 1.3em;
   color: rgba(0, 0, 0, .56);
   font-weight: 500;
 }
 
-.second main section:nth-of-type(1) h4 {
+.second .mainmain section:nth-of-type(1) h4 {
   font-size: 1em;
   font-weight: 400;
   color: rgba(29, 29, 31, .5);
 }
 
-.second main section:nth-of-type(1) ul {
+.second .mainmain section:nth-of-type(1) ul {
   list-style-type: disc;
 }
 
 /* ===MAIN second storage=== */
 /* ===MAIN second features=== */
-.second main>section:nth-of-type(3) {
+.second .mainmain>section:nth-of-type(3) {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -811,14 +811,14 @@ body>header:first-child {
   margin: 0 0 10em auto;
 }
 
-.second main section:nth-of-type(3) h1 {
+.second .mainmain section:nth-of-type(3) h1 {
   font-size: 3em;
   padding: .5em 0 0 0;
   margin: 0;
   margin-right: auto;
 }
 
-.second main section:nth-of-type(3) h2 {
+.second .mainmain section:nth-of-type(3) h2 {
   font-size: 1.25em;
   font-weight: 600;
   line-height: 1.5em;
@@ -828,7 +828,7 @@ body>header:first-child {
   margin-right: auto;
 }
 
-.second main section:nth-of-type(3) p {
+.second .mainmain section:nth-of-type(3) p {
   font-size: 1em;
   font-weight: 400;
   line-height: 25px;
@@ -837,7 +837,7 @@ body>header:first-child {
   margin-right: auto;
 }
 
-.second main>section:nth-of-type(3)>section {
+.second .mainmain>section:nth-of-type(3)>section {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -848,7 +848,7 @@ body>header:first-child {
   width: 100%;
 }
 
-.second main>section:nth-of-type(3) section section {
+.second .mainmain>section:nth-of-type(3) section section {
   background-color: rgba(248, 248, 252, .85);
   backdrop-filter: blur(15px) saturate(86%);
   height: var(--home-main-section-sqaure);
@@ -858,7 +858,7 @@ body>header:first-child {
   width: var(--home-main-section-sqaure);
 }
 
-.second main>section:nth-of-type(3) section section section {
+.second .mainmain>section:nth-of-type(3) section section section {
   background: white;
   box-shadow: none;
   height: 14.7em;
@@ -869,7 +869,7 @@ body>header:first-child {
   border-top-right-radius: 0;
 }
 
-.second main>section:nth-of-type(3) section section header {
+.second .mainmain>section:nth-of-type(3) section section header {
   display: flex;
   height: auto;
   max-height: 8%;
@@ -880,7 +880,7 @@ body>header:first-child {
   align-items: flex-start;
 }
 
-.second main>section:nth-of-type(3) section section header a {
+.second .mainmain>section:nth-of-type(3) section section header a {
   display: flex;
   height: auto;
   flex-direction: column;
@@ -896,7 +896,7 @@ body>header:first-child {
   height: 3.2em;
 }
 
-.second main>section:nth-of-type(3) section section header h2 {
+.second .mainmain>section:nth-of-type(3) section section header h2 {
   order: 3;
   position: absolute;
   margin-top: -0.25em;
@@ -905,7 +905,7 @@ body>header:first-child {
   font-weight: 600;
 }
 
-.second main>section:nth-of-type(3) section section header h3 {
+.second .mainmain>section:nth-of-type(3) section section header h3 {
   line-height: 1.25em;
   font-size: 0.9em;
   font-weight: 400;
@@ -915,7 +915,7 @@ body>header:first-child {
   margin-left: 4em;
 }
 
-.second main>section:nth-of-type(3) section section header img {
+.second .mainmain>section:nth-of-type(3) section section header img {
   width: 2.5em !important;
   height: 2.5em !important;
   order: 1;
@@ -923,7 +923,7 @@ body>header:first-child {
 }
 
 /* ===MAIN second data=== */
-.second main>section:nth-of-type(4) {
+.second .mainmain>section:nth-of-type(4) {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -932,14 +932,14 @@ body>header:first-child {
   margin: 0 0 10em auto;
 }
 
-.second main section:nth-of-type(4) h1 {
+.second .mainmain section:nth-of-type(4) h1 {
   font-size: 3em;
   padding: .5em 0 0 0;
   margin: 0;
   margin-right: auto;
 }
 
-.second main section:nth-of-type(4) p {
+.second .mainmain section:nth-of-type(4) p {
   font-size: 17px;
   font-weight: 400;
   line-height: 25px;
@@ -948,7 +948,7 @@ body>header:first-child {
   margin-right: auto;
 }
 
-.second main>section:nth-of-type(4)>section {
+.second .mainmain>section:nth-of-type(4)>section {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -958,7 +958,7 @@ body>header:first-child {
   width: 100%;
 }
 
-.second main>section:nth-of-type(4) section section {
+.second .mainmain>section:nth-of-type(4) section section {
   background-color: rgba(248, 248, 252, .85);
   backdrop-filter: blur(15px) saturate(86%);
   height: var(--home-main-section-sqaure);
@@ -968,7 +968,7 @@ body>header:first-child {
   width: var(--home-main-section-sqaure);
 }
 
-.second main>section:nth-of-type(4) section section section {
+.second .mainmain>section:nth-of-type(4) section section section {
   background: white;
   box-shadow: none;
   height: 14.7em;
@@ -979,7 +979,7 @@ body>header:first-child {
   border-top-right-radius: 0;
 }
 
-.second main>section:nth-of-type(4) section section header {
+.second .mainmain>section:nth-of-type(4) section section header {
   display: flex;
   height: auto;
   max-height: 8%;
@@ -990,7 +990,7 @@ body>header:first-child {
   align-items: flex-start;
 }
 
-.second main>section:nth-of-type(4) section section header a {
+.second .mainmain>section:nth-of-type(4) section section header a {
   display: flex;
   height: auto;
   flex-direction: column;
@@ -1006,7 +1006,7 @@ body>header:first-child {
   height: 3.2em;
 }
 
-.second main>section:nth-of-type(4) section section header h2 {
+.second .mainmain>section:nth-of-type(4) section section header h2 {
   order: 3;
   position: absolute;
   margin-top: -0.25em;
@@ -1015,7 +1015,7 @@ body>header:first-child {
   font-weight: 600;
 }
 
-.second main>section:nth-of-type(4) section section header h3 {
+.second .mainmain>section:nth-of-type(4) section section header h3 {
   line-height: 1.25em;
   font-size: 0.9em;
   font-weight: 400;
@@ -1025,7 +1025,7 @@ body>header:first-child {
   margin-left: 4em;
 }
 
-.second main>section:nth-of-type(4) section section header img {
+.second .mainmain>section:nth-of-type(4) section section header img {
   width: 2.5em !important;
   height: 2.5em !important;
   order: 1;
@@ -1033,30 +1033,30 @@ body>header:first-child {
 }
 
 /* MAIN second settings */
-.second main section:nth-of-type(5) {
+.second .mainmain section:nth-of-type(5) {
   width: 100%;
   padding: 0;
   margin: 0 0 10em 0;
 }
 
-.second main section:nth-of-type(5) h1 {
+.second .mainmain section:nth-of-type(5) h1 {
   font-size: 3em;
   padding: 1em 0;
   margin: 0;
 }
 
-.second main>section:nth-of-type(5) img {
+.second .mainmain>section:nth-of-type(5) img {
   width: 100%;
   height: 16.875em;
   border-radius: 1.3em;
   object-fit: cover;
 }
 
-.second main section:nth-of-type(5) section {
+.second .mainmain section:nth-of-type(5) section {
   position: relative;
 }
 
-.second main section:nth-of-type(5)>section:first-of-type>h2 {
+.second .mainmain section:nth-of-type(5)>section:first-of-type>h2 {
   position: absolute;
   color: white;
   font-size: 3em;
@@ -1065,20 +1065,20 @@ body>header:first-child {
   left: 0.5em;
 }
 
-.second main section:nth-of-type(5) ul {
+.second .mainmain section:nth-of-type(5) ul {
   color: white;
   position: absolute;
   bottom: 1em;
 }
 
-.second main section:nth-of-type(5) ul li {
+.second .mainmain section:nth-of-type(5) ul li {
   padding: 0.25em;
   font-size: 1.2em;
   font-weight: 600;
   line-height: 1.4em;
 }
 
-.second main section:nth-of-type(5) span {
+.second .mainmain section:nth-of-type(5) span {
   position: absolute;
   bottom: 1em;
   right: 1em;
@@ -1091,20 +1091,20 @@ body>header:first-child {
   padding-block: 0.6em;
 }
 
-.second main section:nth-of-type(5) div h2 {
+.second .mainmain section:nth-of-type(5) div h2 {
   font-size: 1.75em;
   font-weight: 600;
   line-height: 2em;
   margin-bottom: 0;
 }
 
-.second main section:nth-of-type(5) section:nth-of-type(2) h2 {
+.second .mainmain section:nth-of-type(5) section:nth-of-type(2) h2 {
   font-size: 1.75em;
   font-weight: 600;
   line-height: 2em;
 }
 
-.second main section:nth-of-type(5) h3 {
+.second .mainmain section:nth-of-type(5) h3 {
   font-size: 1.315em;
   font-weight: 600;
   line-height: 1.55em;
@@ -1112,14 +1112,14 @@ body>header:first-child {
   margin-block-end: 0.45em;
 }
 
-.second main section:nth-of-type(5) p {
+.second .mainmain section:nth-of-type(5) p {
   font-size: 1em;
   font-weight: 400;
   line-height: 1.55em;
   margin-block: 0.3125em;
 }
 
-.second main section:nth-of-type(5) button {
+.second .mainmain section:nth-of-type(5) button {
   color: #06c;
   font-size: 1.2em;
   font-weight: 600;
@@ -1132,11 +1132,11 @@ body>header:first-child {
   cursor: pointer;
 }
 
-.second main section:nth-of-type(5) section:nth-of-type(2) section:nth-of-type(3) button {
+.second .mainmain section:nth-of-type(5) section:nth-of-type(2) section:nth-of-type(3) button {
   color: #eb0c00;
 }
 
-.second main section:nth-of-type(5) address {
+.second .mainmain section:nth-of-type(5) address {
   color: rgba(0, 0, 0, .56);
   font-size: 17px;
   font-weight: 600;
@@ -1232,6 +1232,7 @@ body>header:first-child {
   display: flex;
   gap: 1em;
   width: 100%;
+  padding-right: 4em;
 }
 
 .home footer footer ul li:last-of-type {
@@ -1239,7 +1240,7 @@ body>header:first-child {
 }
 
 .home footer footer ul li:nth-of-type(1), .home footer footer ul li:nth-of-type(2) {
-  padding-left: 1em;
+  padding-right: 1em;
   border-right: solid lightgrey 1px;
 }
 
@@ -1262,14 +1263,15 @@ body>header:first-child {
   display: flex;
   gap: 1em;
   width: 100%;
+  padding-right: 4em;
 }
 
 .second footer ul li:last-of-type {
   margin-left: auto;
 }
 
-.second footer footer ul li:nth-of-type(1), .home footer footer ul li:nth-of-type(2) {
-  padding-left: 1em;
+.second footer ul li:nth-of-type(1), .home footer ul li:nth-of-type(2) {
+  padding-right: 1em;
   border-right: solid lightgrey 1px;
 }
 
@@ -1330,8 +1332,8 @@ body>header:first-child {
   top: 0 !important;
 }
 
-.seconddropdown {
-  top: 0 !important;
+.second main header .seconddropdown {
+  top: 0;
 }
 
 .secondremove {
@@ -1351,6 +1353,10 @@ body>header:first-child {
 }
 
 .second .planmain {
+  margin-right: auto;
+}
+
+.second main>.settingsmain {
   margin-right: auto;
 }
 
@@ -1459,7 +1465,7 @@ body.wiggle main section:first-of-type {
   }
 }
 
-@media (max-width: 51.3em) {
+@media (max-width: 53.5em) {
   .home>footer {
     height: 45em;
   }
@@ -1475,14 +1481,18 @@ body.wiggle main section:first-of-type {
   .second main .planmain {
     width: 100%;
   }
+
+  .second main>.settingsmain {
+    margin-right: 0;
+  }
 }
 
-@media (min-width: 51.2em) {
+@media (min-width: 53.5em) {
   .second main header section:first-of-type {
     display: none;
   }
 
-  .second main main {
+  .second main .mainmain {
     width: 43.125em;
   }
 
