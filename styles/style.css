@@ -115,7 +115,7 @@ body>header:first-child {
   background: black;
   color: white;
   border-radius: 1.25em;
-  border: none;
+  border: none;f
   padding-inline: 1.125em;
   font-size: 1.0675em;
   font-weight: 400;
@@ -272,8 +272,8 @@ body>header:first-child {
   grid-auto-flow: dense;
   gap: 2em;
   justify-content: center;
-  margin-left: 6em;
-  margin-right: 6em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .home main section {
