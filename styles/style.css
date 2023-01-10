@@ -115,7 +115,7 @@ body>header:first-child {
   background: black;
   color: white;
   border-radius: 1.25em;
-  border: none;f
+  border: none;
   padding-inline: 1.125em;
   font-size: 1.0675em;
   font-weight: 400;
@@ -272,8 +272,8 @@ body>header:first-child {
   grid-auto-flow: dense;
   gap: 2em;
   justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 6em;
+  margin-right: 6em;
 }
 
 .home main section {
@@ -1214,7 +1214,7 @@ body>header:first-child {
   width: 60%;
 }
 
-.home footer footer {
+.home footer article:last-of-type {
   display: flex;
   position: absolute;
   height: 3em;
@@ -1228,18 +1228,18 @@ body>header:first-child {
   line-height: 1.2;
 }
 
-.home footer footer ul {
+.home footer article:last-of-type ul {
   display: flex;
   gap: 1em;
   width: 100%;
   padding-right: 4em;
 }
 
-.home footer footer ul li:last-of-type {
+.home footer article:last-of-type ul li:last-of-type {
   margin-left: auto;
 }
 
-.home footer footer ul li:nth-of-type(1), .home footer footer ul li:nth-of-type(2) {
+.home footer article:last-of-type ul li:nth-of-type(1), .home footer article:last-of-type ul li:nth-of-type(2) {
   padding-right: 1em;
   border-right: solid lightgrey 1px;
 }
@@ -1352,7 +1352,11 @@ body>header:first-child {
   display: none;
 }
 
-.second .planmain {
+.second main>.planmain {
+  margin-right: auto;
+}
+
+.second main>.storagemain {
   margin-right: auto;
 }
 
@@ -1519,5 +1523,15 @@ body.wiggle main section:first-of-type {
 
   .second .featuremain {
     margin-right: auto;
+  }
+}
+
+@media (min-width: 1165px) {
+  .second .mainmain>section:nth-of-type(5) section img {
+    width: 29.6875em;
+  }
+
+  .second .mainmain section:nth-of-type(5) section span {
+    right: 12em
   }
 }
