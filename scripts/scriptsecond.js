@@ -39,7 +39,7 @@ function selectioncheck(){
     console.log("storage");
     storage.classList.remove("displaysection")
     document.title = "Your Storage";
-
+    secondmainmain.classList.add("storagemain");
   }
   else if (status == 3) {
     console.log("features");
