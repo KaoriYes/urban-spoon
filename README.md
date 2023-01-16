@@ -95,11 +95,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### de hele pagina: 
   <img src="readme-images/
-Screenshot 2023-01-16 at 12.45.35.png " width="375px" alt="Home pagina/overzicht">
+Screenshot 2023-01-16 at 12.45.35.png" width="375px" alt="Home pagina/overzicht">
     <img src="readme-images/
-Screenshot 2023-01-16 at 12.45.40.png " width="375px" alt="Home pagina/overzicht">
+Screenshot 2023-01-16 at 12.45.40.png" width="375px" alt="Home pagina/overzicht">
   <img src="readme-images/
-Screenshot 2023-01-16 at 12.45.44.png " width="375px" alt="Home pagina/overzicht">
+Screenshot 2023-01-16 at 12.45.44.png" width="375px" alt="Home pagina/overzicht">
 
 </details>
 
