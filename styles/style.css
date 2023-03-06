@@ -13,9 +13,9 @@
 }
 
 /*  ----  */
-*:focus {
+/* *:focus {
   outline: 5px solid red;
-}
+} */
 
 html {
   color: #1d1d1f;
